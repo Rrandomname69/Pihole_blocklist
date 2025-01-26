@@ -1,0 +1,108 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 25 January 2025 16:14:17 (UTC)
+# Number of unique domains: 119,235
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+
+0.0.0.0 10.im.cz
+0.0.0.0 2mdn.net
+0.0.0.0 a.1gr.cz
+0.0.0.0 a.blesk.cz
+0.0.0.0 a.cele.cz
+0.0.0.0 a.denik.cz
+0.0.0.0 a.iprima.cz
+0.0.0.0 a.slunecnice.cz
+0.0.0.0 ad.digineff.cz
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 adcz.hit.gemius.pl
+0.0.0.0 ads.revjet.com
+0.0.0.0 affiliate.heureka.cz
+0.0.0.0 aimatch.com
+0.0.0.0 ams.creativecdn.com
+0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 app-tydenik.echomedia.cz
+0.0.0.0 assets.scoota.co
+0.0.0.0 b.cdnst.net
+0.0.0.0 bbcdn.go.ibillboard.bbelements.com
+0.0.0.0 bit.ly
+0.0.0.0 c.seznam.cz
+0.0.0.0 cat.fr.eu.criteo.com
+0.0.0.0 cat.nl.eu.criteo.com
+0.0.0.0 cdn.i0.cz
+0.0.0.0 crcdn01.adnxs.com
+0.0.0.0 creativecdn.com
+0.0.0.0 cz.adocean.pl
+0.0.0.0 cz.search.etargetnet.com
+0.0.0.0 czgde.adocean.pl
+0.0.0.0 d25-a.sdn.cz
+0.0.0.0 d49-a.sdn.cz
+0.0.0.0 d49-a.sdn.szn.cz
+0.0.0.0 fra1-ib.adnxs.com
+0.0.0.0 g.doubleclick.net
+0.0.0.0 go.cz.bbelements.com
+0.0.0.0 go.eu.bbelements.com
+0.0.0.0 go.idnes.bbelements.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 hit.gemius.pl
+0.0.0.0 hpxs.xsd.cz
+0.0.0.0 iinfo.cz
+0.0.0.0 imedia.cz
+0.0.0.0 imgur.com
+0.0.0.0 i.seznam.cz
+0.0.0.0 idnes.bbelements.com
+0.0.0.0 img.motorkari.cz
+0.0.0.0 incorp.media
+0.0.0.0 insight.adsrvr.org
+0.0.0.0 mdc.pliing.com
+0.0.0.0 openads.aira.cz
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pix.eu.criteo.net
+0.0.0.0 r.favi.cz
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s1.adform.net
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 smsexshop.cz
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 track.adform.net
+0.0.0.0 trends.revcontent.com
+0.0.0.0 utm_medium
+0.0.0.0 www.afgr2.com
+0.0.0.0 www.googlesyndication.com
+0.0.0.0 www.nov1215in1215ky.cz
+0.0.0.0 www.richmedia.cz
+0.0.0.0 zdstatic.speedtest.net
