@@ -75,8 +75,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.idnes.bbelements.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleadservices.com
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hpxs.xsd.cz
 0.0.0.0 iinfo.cz
